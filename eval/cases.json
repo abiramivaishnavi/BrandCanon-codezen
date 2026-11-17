@@ -1,0 +1,314 @@
+[
+ {
+  "id": "c01",
+  "text": "Morning Ember is now just Rs 499 for a 250g pack.",
+  "expected": [
+   [
+    "F-01",
+    "Rs 499"
+   ]
+  ]
+ },
+ {
+  "id": "c02",
+  "text": "Velvet Night, our decaf blend, costs ₹650.",
+  "expected": [
+   [
+    "F-02",
+    "₹650"
+   ]
+  ]
+ },
+ {
+  "id": "c03",
+  "text": "Morning Ember is Rs 549 and Velvet Night is Rs 599.",
+  "expected": []
+ },
+ {
+  "id": "c04",
+  "text": "Our Winter offer gives you 30% off every blend.",
+  "expected": [
+   [
+    "F-04",
+    "30%"
+   ]
+  ]
+ },
+ {
+  "id": "c05",
+  "text": "Winter Warmers: 20 percent off until 31 Jan.",
+  "expected": []
+ },
+ {
+  "id": "c06",
+  "text": "The Diwali festive offer is still on: 40% off.",
+  "expected": [
+   [
+    "F-03",
+    "40%"
+   ]
+  ]
+ },
+ {
+  "id": "c07",
+  "text": "Since 2014 we have been roasting in Bengaluru.",
+  "expected": [
+   [
+    "F-06",
+    "2014"
+   ]
+  ]
+ },
+ {
+  "id": "c08",
+  "text": "Visit any of our 45 cafés this weekend.",
+  "expected": [
+   [
+    "F-05",
+    "45"
+   ]
+  ]
+ },
+ {
+  "id": "c09",
+  "text": "Founded in 2016, AuroraBrew now has 38 cafés.",
+  "expected": []
+ },
+ {
+  "id": "c10",
+  "text": "Aurora Brew opens a new café in Mysuru.",
+  "expected": [
+   [
+    "T-01",
+    "Aurora Brew"
+   ]
+  ]
+ },
+ {
+  "id": "c11",
+  "text": "Try Morning Amber at your nearest coffee shop.",
+  "expected": [
+   [
+    "T-02",
+    "Morning Amber"
+   ],
+   [
+    "T-03",
+    "coffee shop"
+   ]
+  ]
+ },
+ {
+  "id": "c12",
+  "text": "Great coffee does not have to be cheap, but ours is good value.",
+  "expected": [
+   [
+    "T-04",
+    "cheap"
+   ]
+  ]
+ },
+ {
+  "id": "c13",
+  "text": "Hurry, the new roast is here for a short time.",
+  "expected": [
+   [
+    "T-05",
+    "Hurry"
+   ]
+  ]
+ },
+ {
+  "id": "c14",
+  "text": "AuroraBrew serves the best coffee in Karnataka.",
+  "expected": [
+   [
+    "CL-01",
+    "best"
+   ]
+  ]
+ },
+ {
+  "id": "c15",
+  "text": "We are the No.1 roaster and our quality is guaranteed.",
+  "expected": [
+   [
+    "CL-01",
+    "No.1"
+   ],
+   [
+    "CL-01",
+    "guaranteed"
+   ]
+  ]
+ },
+ {
+  "id": "c16",
+  "text": "Our award-winning Morning Ember is back in stock.",
+  "expected": []
+ },
+ {
+  "id": "c17",
+  "text": "NEW ROAST OUT NOW AT EVERY CAFÉ. Come and try it!!!",
+  "expected": [
+   [
+    "TN-05",
+    "NEW ROAST OUT NOW AT EVERY CAFÉ"
+   ],
+   [
+    "TN-05",
+    "!!!"
+   ]
+  ]
+ },
+ {
+  "id": "c18",
+  "text": "Fresh from our roastery to your cup. Stop by your nearest AuroraBrew café and say hello.",
+  "expected": []
+ },
+ {
+  "id": "c19",
+  "text": "Morning Ember now Rs 549. Winter offer: 25% off, only at Aurorabrew.",
+  "expected": [
+   [
+    "F-04",
+    "25%"
+   ],
+   [
+    "T-01",
+    "Aurorabrew"
+   ]
+  ]
+ },
+ {
+  "id": "c20",
+  "text": "Meet the team at our Indiranagar café. We have been brewing since 2016 and we love what we do.",
+  "expected": []
+ },
+ {
+  "id": "c21",
+  "text": "Enjoy the Winter offer of 20% off at every café until 31 Jan.",
+  "expected": []
+ },
+ {
+  "id": "c22",
+  "text": "Our 38 cafés are open from 7 am on 26 Jan.",
+  "expected": []
+ },
+ {
+  "id": "h01",
+  "hard": true,
+  "text": "Morning Ember costs five hundred rupees for a 250g pack.",
+  "expected": [
+   [
+    "F-01",
+    "five hundred rupees"
+   ]
+  ]
+ },
+ {
+  "id": "h02",
+  "hard": true,
+  "text": "Pick up Velvet Night for 650 rupees this week.",
+  "expected": [
+   [
+    "F-02",
+    "650"
+   ]
+  ]
+ },
+ {
+  "id": "h03",
+  "hard": true,
+  "text": "We now have forty cafés across South India.",
+  "expected": [
+   [
+    "F-05",
+    "forty"
+   ]
+  ]
+ },
+ {
+  "id": "h04",
+  "hard": true,
+  "text": "A warm cup is the best way to start a cold morning.",
+  "expected": []
+ },
+ {
+  "id": "h05",
+  "hard": true,
+  "text": "Aurora  Brew is opening in Kochi next month.",
+  "expected": [
+   [
+    "T-01",
+    "Aurora  Brew"
+   ]
+  ]
+ },
+ {
+  "id": "h06",
+  "hard": true,
+  "text": "Winter offer: get a quarter off every blend.",
+  "expected": [
+   [
+    "F-04",
+    "a quarter off"
+   ]
+  ]
+ },
+ {
+  "id": "a01",
+  "needs_ai": true,
+  "text": "Drinking our coffee every morning boosts immunity and helps you lose weight.",
+  "expected": [
+   [
+    "CL-02",
+    "boosts immunity"
+   ]
+  ]
+ },
+ {
+  "id": "a02",
+  "needs_ai": true,
+  "text": "Act now or regret it forever. This is your last chance to grab a bag.",
+  "expected": [
+   [
+    "TN-03",
+    "last chance"
+   ]
+  ]
+ },
+ {
+  "id": "a03",
+  "needs_ai": true,
+  "text": "Unlike the stale, factory-made coffee from BigBean Co., ours is fresh.",
+  "expected": [
+   [
+    "CL-03",
+    "BigBean Co."
+   ]
+  ]
+ },
+ {
+  "id": "a04",
+  "needs_ai": true,
+  "text": "Our packaging is eco-friendly and green.",
+  "expected": [
+   [
+    "MS-01",
+    "eco-friendly"
+   ]
+  ]
+ },
+ {
+  "id": "a05",
+  "needs_ai": true,
+  "text": "Consumers will appreciate the organoleptic profile and Maillard-driven complexity of this lot.",
+  "expected": [
+   [
+    "TN-04",
+    "organoleptic"
+   ]
+  ]
+ }
+]
